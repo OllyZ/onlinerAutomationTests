@@ -1,0 +1,9 @@
+D:\projects\GmailAutomationTests\GmailAutomationTests\bin\Debug\netstandard2.0\GmailAutomationTests.deps.json
+D:\projects\GmailAutomationTests\GmailAutomationTests\bin\Debug\netstandard2.0\GmailAutomationTests.dll
+D:\projects\GmailAutomationTests\GmailAutomationTests\bin\Debug\netstandard2.0\GmailAutomationTests.pdb
+D:\projects\GmailAutomationTests\GmailAutomationTests\obj\Debug\netstandard2.0\GmailAutomationTests.csprojAssemblyReference.cache
+D:\projects\GmailAutomationTests\GmailAutomationTests\obj\Debug\netstandard2.0\GmailAutomationTests.AssemblyInfoInputs.cache
+D:\projects\GmailAutomationTests\GmailAutomationTests\obj\Debug\netstandard2.0\GmailAutomationTests.AssemblyInfo.cs
+D:\projects\GmailAutomationTests\GmailAutomationTests\obj\Debug\netstandard2.0\GmailAutomationTests.csproj.CoreCompileInputs.cache
+D:\projects\GmailAutomationTests\GmailAutomationTests\obj\Debug\netstandard2.0\GmailAutomationTests.dll
+D:\projects\GmailAutomationTests\GmailAutomationTests\obj\Debug\netstandard2.0\GmailAutomationTests.pdb
